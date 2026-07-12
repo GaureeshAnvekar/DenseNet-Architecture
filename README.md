@@ -1,1 +1,1 @@
-# DenseNet-Assignment
+# DenseNet-Architecture
